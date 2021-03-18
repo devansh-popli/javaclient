@@ -74,8 +74,6 @@
     <artifactId>json</artifactId>
     <version>20160810</version>
 </dependency>
-		<!-- https://mvnrepository.com/artifact/org.springframework/spring-web -->
-		
   </dependencies>
   <build>
     <finalName>EmployeeSpring</finalName>
