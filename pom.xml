@@ -73,9 +73,7 @@
     <groupId>org.json</groupId>
     <artifactId>json</artifactId>
     <version>20160810</version>
-</dependency>
-		<!-- dummy text 1-->
-		
+</dependency>	
   </dependencies>
   <build>
     <finalName>EmployeeSpring</finalName>
